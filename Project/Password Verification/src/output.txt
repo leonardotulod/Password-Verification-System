@@ -1,0 +1,2 @@
+Hash of correct password -1424388928
+Please go to the IT department with the hash to reset the password.
